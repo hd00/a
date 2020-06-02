@@ -12,3 +12,4 @@ git config --global --unset http.proxy
     
 
 Cc: save a1 <duonghung@gmail.com>
+**** magit push
