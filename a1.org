@@ -1,3 +1,14 @@
-* start github a 
-** hip add new lines:x
+* git
+git version
+git version 2.23.0.windows.1
 
+
+
+git config --global --unset https.proxy
+git config --global --unset http.proxy
+** github
+*** Welcome to GitHub Desktop
+*** Welcome to GitHub Desktop
+    
+
+Cc: save a1 <duonghung@gmail.com>
